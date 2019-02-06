@@ -1,0 +1,42 @@
+What	PRON	WP
+if	SCONJ	IN
+Google	PROPN	NNP
+Morphed	VERB	VBD
+Into	ADP	IN
+GoogleOS	PROPN	NNP
+?	PUNCT	.
+
+What	PRON	WP
+if	SCONJ	IN
+Google	PROPN	NNP
+expanded	VERB	VBD
+on	ADP	IN
+its	PRON	PRP$
+search	NOUN	NN
+-	PUNCT	HYPH
+engine	NOUN	NN
+(	PUNCT	-LRB-
+and	CCONJ	CC
+now	ADV	RB
+e-mail	NOUN	NN
+)	PUNCT	-RRB-
+wares	NOUN	NNS
+into	ADP	IN
+a	DET	DT
+full	ADV	RB
+-	PUNCT	HYPH
+fledged	ADJ	JJ
+operating	NOUN	NN
+system	NOUN	NN
+?	PUNCT	.
+
+[	PUNCT	-LRB-
+via	ADP	IN
+Microsoft	PROPN	NNP
+Watch	PROPN	NNP
+from	ADP	IN
+Mary	PROPN	NNP
+Jo	PROPN	NNP
+Foley	PROPN	NNP
+]	PUNCT	-RRB-
+
